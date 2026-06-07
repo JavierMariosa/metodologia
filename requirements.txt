@@ -1,0 +1,9 @@
+contextily
+gdown
+pandas
+geopandas
+matplotlib
+contextily
+folium
+polars
+fastexcel
