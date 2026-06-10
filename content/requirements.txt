@@ -1,0 +1,16 @@
+contextily
+gdown
+pandas
+geopandas
+matplotlib
+contextily
+folium
+polars
+fastexcel
+openpyxl
+requests
+statsmodels
+pmdarima
+scikit-learn
+openpyxl
+scipy
