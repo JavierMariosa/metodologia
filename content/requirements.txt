@@ -14,3 +14,4 @@ pmdarima
 scikit-learn
 openpyxl
 scipy
+pyarrow
