@@ -7,5 +7,12 @@ contextily
 folium
 polars
 fastexcel
-shapely
+openpyxl
+requests
+statsmodels
+pmdarima
+scikit-learn
+openpyxl
+scipy
+pyarrow
 holidays
